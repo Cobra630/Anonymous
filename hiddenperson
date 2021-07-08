@@ -90,7 +90,7 @@ backtomenu_banner = """
 """
 
 help_msg = """
-Commands         Description
+Commands   CREADET BY HIDDEN PERSON      Description
 ---------        ------------
 help             Print this message
 banner           Print banner
